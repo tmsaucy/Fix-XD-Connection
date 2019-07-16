@@ -1,0 +1,2 @@
+This script will restart the "Citrix ICA Service" and "Citrix Desktop Service" services on the Citrix Xendesktop that is specified. 
+This has been found to resolve most issues, where a local host is unable to connect to a Citrix XenDesktop. 
